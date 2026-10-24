@@ -3,7 +3,7 @@
   "identifier": "com.yourname.combined",
   "subtitle": "YouTube / Spotify / X 改造版まとめ",
   "description": "YTLite + EeveeSpotify + NeoFreeBird をまとめた個人用ソース",
-  "sourceURL": "ここに自分のJSONのRaw URLを入れる",
+  "sourceURL": "https://raw.githubusercontent.com/Hoyomaru/Source/main/source.json",
   "apps": [
     {
       "name": "YouTubePlus",
